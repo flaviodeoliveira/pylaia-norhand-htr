@@ -1,0 +1,9 @@
+common:
+  experiment_dirname: pylaia-huginmunin
+  model_filename: pylaia-huginmunin/model
+decode:
+  convert_spaces: true
+  join_string: ''
+  use_language_model: False
+img_list: test_img_list.txt
+syms: pylaia-huginmunin/syms.txt
