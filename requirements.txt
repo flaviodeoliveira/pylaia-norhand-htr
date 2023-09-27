@@ -1,0 +1,4 @@
+git+https://github.com/jpuigcerver/PyLaia/
+nnutils-pytorch
+jiwer==3.0.3
+evaluate==0.4.0
